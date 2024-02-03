@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @piyushj7636
+- 👀 I’m interested in C, python and javascript language
+- 🌱 I’m currently learning C languange
+- 💞️ I’m looking to collaborate on beginner level tasks to grasp knowledge about C.
+- 📫 How to reach me - piyushj7636@outlook.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: will get some fun moving ahead
