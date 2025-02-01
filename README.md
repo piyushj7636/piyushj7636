@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @piyushj7636
 - 👀 I’m interested in front-end languages for now
-- 🌱 I’m currently learning SASS
-- 💞️ I’m looking to collaborate on beginner level tasks to grasp knowledge about Flexbox.
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on beginner level tasks to grasp knowledge about js-frameworks especially react.
 - 📫 How to reach me - piyushj7636@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: will get some fun moving ahead
